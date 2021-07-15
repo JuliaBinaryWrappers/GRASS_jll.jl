@@ -1,0 +1,236 @@
+[[GRASS]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6236caadcf3367015c16a0a43d7829299ecbabef"
+libc = "glibc"
+os = "linux"
+
+    [[GRASS.download]]
+    sha256 = "793ecaa7da0ea9bc1e4d5d124768a0a11c5ac52bd715c48559b9b8fc854d6f69"
+    url = "https://github.com/JuliaBinaryWrappers/GRASS_jll.jl/releases/download/GRASS-v7.8.5+0/GRASS.v7.8.5.aarch64-linux-gnu-cxx03.tar.gz"
+[[GRASS]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8e2832d2b02bb4a2c69fceed13682131066e28f6"
+libc = "glibc"
+os = "linux"
+
+    [[GRASS.download]]
+    sha256 = "e8c309e07229c1da6c5c6f36e2a2da46d797a6a099b558144b21aa8363efb23f"
+    url = "https://github.com/JuliaBinaryWrappers/GRASS_jll.jl/releases/download/GRASS-v7.8.5+0/GRASS.v7.8.5.aarch64-linux-gnu-cxx11.tar.gz"
+[[GRASS]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8218872c74b1e18861fe97fe610cec00645d678c"
+libc = "musl"
+os = "linux"
+
+    [[GRASS.download]]
+    sha256 = "7f52e748385358b29cb565b5f2de77d30ea011e3208271643a7b4883771b2519"
+    url = "https://github.com/JuliaBinaryWrappers/GRASS_jll.jl/releases/download/GRASS-v7.8.5+0/GRASS.v7.8.5.aarch64-linux-musl-cxx03.tar.gz"
+[[GRASS]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cea9d018245647c7b58297921fa7a84d82a18e78"
+libc = "musl"
+os = "linux"
+
+    [[GRASS.download]]
+    sha256 = "596b006144599ab1be459e7a91a2dafbcc23bfd8c933c1fbf3b8d8d319f06912"
+    url = "https://github.com/JuliaBinaryWrappers/GRASS_jll.jl/releases/download/GRASS-v7.8.5+0/GRASS.v7.8.5.aarch64-linux-musl-cxx11.tar.gz"
+[[GRASS]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ed7e9f5b6730593ed3c855846cb3b35b208252d7"
+libc = "glibc"
+os = "linux"
+
+    [[GRASS.download]]
+    sha256 = "a41d8bf13fa2be9609661aae613a83e02a24803c28e366f24b99068e5117ad27"
+    url = "https://github.com/JuliaBinaryWrappers/GRASS_jll.jl/releases/download/GRASS-v7.8.5+0/GRASS.v7.8.5.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[GRASS]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7a13f932513b909621b8a3625edd1846a125e44f"
+libc = "glibc"
+os = "linux"
+
+    [[GRASS.download]]
+    sha256 = "1e6ee1a04a819ca2d3020197e0717151a09440443a4fbf1c0cd6930caf8e2d81"
+    url = "https://github.com/JuliaBinaryWrappers/GRASS_jll.jl/releases/download/GRASS-v7.8.5+0/GRASS.v7.8.5.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[GRASS]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7ee3523fb648f7feb9b9dbc741dd63debe3f862d"
+libc = "musl"
+os = "linux"
+
+    [[GRASS.download]]
+    sha256 = "d2f7c6c52117f6049724a88bb7d5b596efb53ce3bcb313edcdbb47b4cf595c24"
+    url = "https://github.com/JuliaBinaryWrappers/GRASS_jll.jl/releases/download/GRASS-v7.8.5+0/GRASS.v7.8.5.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[GRASS]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f9eae27e621be7243f9538168eb649f66a28fa2e"
+libc = "musl"
+os = "linux"
+
+    [[GRASS.download]]
+    sha256 = "685a6252624c6a63c5659c39ad3305c4aed9752d5dd624765095a468b3c25d3a"
+    url = "https://github.com/JuliaBinaryWrappers/GRASS_jll.jl/releases/download/GRASS-v7.8.5+0/GRASS.v7.8.5.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[GRASS]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "117b1c995952b82f435f7b16c9a0c4fc0b60ec6a"
+libc = "glibc"
+os = "linux"
+
+    [[GRASS.download]]
+    sha256 = "6f074bee2b0beab3e4e2372dc52188d34aae7817d1bda61d1943ebed3f2fa44a"
+    url = "https://github.com/JuliaBinaryWrappers/GRASS_jll.jl/releases/download/GRASS-v7.8.5+0/GRASS.v7.8.5.i686-linux-gnu-cxx03.tar.gz"
+[[GRASS]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f0e51d387e98336438c233379446144e0c843dee"
+libc = "glibc"
+os = "linux"
+
+    [[GRASS.download]]
+    sha256 = "448ba12b523fb93c96a290fa729bef42b5b731dcd709b1aedae640075a2b7f86"
+    url = "https://github.com/JuliaBinaryWrappers/GRASS_jll.jl/releases/download/GRASS-v7.8.5+0/GRASS.v7.8.5.i686-linux-gnu-cxx11.tar.gz"
+[[GRASS]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d8d5b3c21eac9a008f174f99ef47a70d009c0ba8"
+libc = "musl"
+os = "linux"
+
+    [[GRASS.download]]
+    sha256 = "6a1de558ecc883409920eecd81c1d9373f62f549842478d608011b8f841b7221"
+    url = "https://github.com/JuliaBinaryWrappers/GRASS_jll.jl/releases/download/GRASS-v7.8.5+0/GRASS.v7.8.5.i686-linux-musl-cxx03.tar.gz"
+[[GRASS]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "99bb0512494c365e8851bd716149f4b027864107"
+libc = "musl"
+os = "linux"
+
+    [[GRASS.download]]
+    sha256 = "5e3637e4a04d4fc4105696641e04259f7ece5b052a0bbb28c214c57d795cc9cc"
+    url = "https://github.com/JuliaBinaryWrappers/GRASS_jll.jl/releases/download/GRASS-v7.8.5+0/GRASS.v7.8.5.i686-linux-musl-cxx11.tar.gz"
+[[GRASS]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8784912245e8b040b58fe0fb931dfbff73aa3956"
+os = "windows"
+
+    [[GRASS.download]]
+    sha256 = "0869da9fd90ed1245ee7bd7e93e627d3ecb4cfbed8dcbfafd17dbd3b891726e5"
+    url = "https://github.com/JuliaBinaryWrappers/GRASS_jll.jl/releases/download/GRASS-v7.8.5+0/GRASS.v7.8.5.i686-w64-mingw32-cxx03.tar.gz"
+[[GRASS]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d9eefc38b5389a084a8103c91618468ca8c3c69d"
+os = "windows"
+
+    [[GRASS.download]]
+    sha256 = "47f121b65f952f6d28f11325fa08b0050d5f6d096b8449cf02fb13d144fe4109"
+    url = "https://github.com/JuliaBinaryWrappers/GRASS_jll.jl/releases/download/GRASS-v7.8.5+0/GRASS.v7.8.5.i686-w64-mingw32-cxx11.tar.gz"
+[[GRASS]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3660e7ab4b7d1c763e70f699f7eae270caa939d2"
+libc = "glibc"
+os = "linux"
+
+    [[GRASS.download]]
+    sha256 = "e7f94d46bf65cad73fb9a1c07e7e5321521aef82e4c4a224ea1f5b8f5cd779c5"
+    url = "https://github.com/JuliaBinaryWrappers/GRASS_jll.jl/releases/download/GRASS-v7.8.5+0/GRASS.v7.8.5.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[GRASS]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "54a4f5e03090be8bb459aa11c2e2c4175ec484a1"
+libc = "glibc"
+os = "linux"
+
+    [[GRASS.download]]
+    sha256 = "c1a022f405d00a2e13c414d9d516085b4cccc1604bb404ee1a6595d1c046f2c5"
+    url = "https://github.com/JuliaBinaryWrappers/GRASS_jll.jl/releases/download/GRASS-v7.8.5+0/GRASS.v7.8.5.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[GRASS]]
+arch = "x86_64"
+git-tree-sha1 = "0df380082db357c6483e4b3003d5dc535c494fbe"
+os = "macos"
+
+    [[GRASS.download]]
+    sha256 = "bd6519bea4d659de9a0ef53dd25506f09b5a798b60f9f2fc40da3730bfa4c049"
+    url = "https://github.com/JuliaBinaryWrappers/GRASS_jll.jl/releases/download/GRASS-v7.8.5+0/GRASS.v7.8.5.x86_64-apple-darwin.tar.gz"
+[[GRASS]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d429c8013c35222adbc0ed2ed70ecd7f3162173d"
+libc = "glibc"
+os = "linux"
+
+    [[GRASS.download]]
+    sha256 = "e02db6ab33e3b7258b5bb53a2bb5ad06b9db94de1071c463328f931224acb48d"
+    url = "https://github.com/JuliaBinaryWrappers/GRASS_jll.jl/releases/download/GRASS-v7.8.5+0/GRASS.v7.8.5.x86_64-linux-gnu-cxx03.tar.gz"
+[[GRASS]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7ae2bb90f2a58321f8b6b9d7eab9741c00ceeb4e"
+libc = "glibc"
+os = "linux"
+
+    [[GRASS.download]]
+    sha256 = "9239eb5be48082d84f09cd4a45ab1f7f46b4fb01b3681d922c0367ec1c1add10"
+    url = "https://github.com/JuliaBinaryWrappers/GRASS_jll.jl/releases/download/GRASS-v7.8.5+0/GRASS.v7.8.5.x86_64-linux-gnu-cxx11.tar.gz"
+[[GRASS]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a5d5891f20671b7f4f606b47f2798d71b99926dd"
+libc = "musl"
+os = "linux"
+
+    [[GRASS.download]]
+    sha256 = "3de19451ac73610fe91ae2553d7710485a7b47b2dae93be3887c7cf13db8882d"
+    url = "https://github.com/JuliaBinaryWrappers/GRASS_jll.jl/releases/download/GRASS-v7.8.5+0/GRASS.v7.8.5.x86_64-linux-musl-cxx03.tar.gz"
+[[GRASS]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7ffe17c0da8352204bad5e1a428bb7a58386fde6"
+libc = "musl"
+os = "linux"
+
+    [[GRASS.download]]
+    sha256 = "cac2c3d6e37a5176f7874bca82f0d01fc468085744de6e215b7e8d8f1d8ba4f8"
+    url = "https://github.com/JuliaBinaryWrappers/GRASS_jll.jl/releases/download/GRASS-v7.8.5+0/GRASS.v7.8.5.x86_64-linux-musl-cxx11.tar.gz"
+[[GRASS]]
+arch = "x86_64"
+git-tree-sha1 = "489eb057a693da3fc815052f6caff4d94414c349"
+os = "freebsd"
+
+    [[GRASS.download]]
+    sha256 = "b9ea16efbbf88a814de2b1c422fbb8cfb715bccb699c95770a53a93425fdcc80"
+    url = "https://github.com/JuliaBinaryWrappers/GRASS_jll.jl/releases/download/GRASS-v7.8.5+0/GRASS.v7.8.5.x86_64-unknown-freebsd.tar.gz"
+[[GRASS]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ec8bc27468e7a63c26a7ce286d76923956fba2b6"
+os = "windows"
+
+    [[GRASS.download]]
+    sha256 = "c3deadd3bf2674dff6a90827eb13bce1879162e2a308579bb03cb955522a95f5"
+    url = "https://github.com/JuliaBinaryWrappers/GRASS_jll.jl/releases/download/GRASS-v7.8.5+0/GRASS.v7.8.5.x86_64-w64-mingw32-cxx03.tar.gz"
+[[GRASS]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2cdedb57fc13045fb89f9f497d4f7b4ce09f2f5a"
+os = "windows"
+
+    [[GRASS.download]]
+    sha256 = "e4bd7fd698308f3c6be88105d02a6f9b47e16475283014da13d2ae5670452458"
+    url = "https://github.com/JuliaBinaryWrappers/GRASS_jll.jl/releases/download/GRASS-v7.8.5+0/GRASS.v7.8.5.x86_64-w64-mingw32-cxx11.tar.gz"
